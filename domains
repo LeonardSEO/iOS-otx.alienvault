@@ -1,11 +1,16 @@
-#
 # ===============================================================
-# APPLE Malware, Exploits, Hacks IOCs
-# Date: 09 August 2023
-# Number of unique domains: 1088
-# Fetch the latest version of this file: 
-# Project home page: https://github.com/Leonardh4ck/iOS-otx.alienvault./
-# Project releases: https://github.com/Leonardh4ck/
+# 🍏 iOS-otx.alienvault Blocklist by LeonardSEO 🛡️
+# ===============================================================
+# 
+# A curated list of Indicators of Compromise (IOCs) related to 
+# APPLE malware, exploits, and hacks. Protect your Apple devices 
+# and networks by blocking these potentially harmful domains.
+# 
+# Repository: https://github.com/LeonardSEO/iOS-otx.alienvault
+# Updated on: 09 August 2023
+# Total domains: 1088
+# 
+# ===============================================================
 0.com.google.ios.youtube
 03.com.google.ios.youtube
 0303.com.google.ios.youtube
